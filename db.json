@@ -1,0 +1,198 @@
+{
+  "assets": [
+    {
+      "id": "asset-btc-001",
+      "name": "BTC",
+      "type": "crypto"
+    },
+    {
+      "id": "asset-eth-001",
+      "name": "ETH",
+      "type": "crypto"
+    },
+    {
+      "id": "asset-doge-001",
+      "name": "DOGE",
+      "type": "crypto"
+    },
+    {
+      "id": "asset-appl-001",
+      "name": "AAPL",
+      "type": "stock"
+    },
+    {
+      "id": "asset-tsla-001",
+      "name": "TSLA",
+      "type": "stock"
+    },
+    {
+      "id": "asset-gbp-001",
+      "name": "GBP",
+      "type": "fiat"
+    },
+    {
+      "id": "asset-eur-001",
+      "name": "EUR",
+      "type": "fiat"
+    }
+  ],
+
+  "prices": [
+    {
+      "id": "price-btc-20230101",
+      "asset": "BTC",
+      "price": 20500,
+      "timestamp": "2023-01-01T00:00:00Z"
+    },
+    {
+      "id": "price-eth-20230101",
+      "asset": "ETH",
+      "price": 1400,
+      "timestamp": "2023-01-01T00:00:00Z"
+    },
+    {
+      "id": "price-doge-20230101",
+      "asset": "DOGE",
+      "price": 0.09,
+      "timestamp": "2023-01-01T00:00:00Z"
+    },
+    {
+      "id": "price-appl-20230101",
+      "asset": "AAPL",
+      "price": 290,
+      "timestamp": "2023-01-01T00:00:00Z"
+    },
+    {
+      "id": "price-tsla-20230101",
+      "asset": "TSLA",
+      "price": 180,
+      "timestamp": "2023-01-01T00:00:00Z"
+    },
+    {
+      "id": "price-gbp-20230101",
+      "asset": "GBP",
+      "price": 1.0,
+      "timestamp": "2023-01-01T00:00:00Z"
+    },
+    {
+      "id": "price-eur-20230101",
+      "asset": "EUR",
+      "price": 1.07,
+      "timestamp": "2023-01-01T00:00:00Z"
+    },
+
+    {
+      "id": "price-btc-20230102",
+      "asset": "BTC",
+      "price": 21000,
+      "timestamp": "2023-01-02T00:00:00Z"
+    },
+    {
+      "id": "price-eth-20230102",
+      "asset": "ETH",
+      "price": 1420,
+      "timestamp": "2023-01-02T00:00:00Z"
+    },
+    {
+      "id": "price-doge-20230102",
+      "asset": "DOGE",
+      "price": 0.095,
+      "timestamp": "2023-01-02T00:00:00Z"
+    },
+    {
+      "id": "price-appl-20230102",
+      "asset": "AAPL",
+      "price": 292,
+      "timestamp": "2023-01-02T00:00:00Z"
+    },
+    {
+      "id": "price-tsla-20230102",
+      "asset": "TSLA",
+      "price": 182,
+      "timestamp": "2023-01-02T00:00:00Z"
+    },
+    {
+      "id": "price-gbp-20230102",
+      "asset": "GBP",
+      "price": 1.01,
+      "timestamp": "2023-01-02T00:00:00Z"
+    },
+    {
+      "id": "price-eur-20230102",
+      "asset": "EUR",
+      "price": 1.06,
+      "timestamp": "2023-01-02T00:00:00Z"
+    },
+
+    {
+      "id": "price-btc-20230103",
+      "asset": "BTC",
+      "price": 21500,
+      "timestamp": "2023-01-03T00:00:00Z"
+    },
+    {
+      "id": "price-eth-20230103",
+      "asset": "ETH",
+      "price": 1450,
+      "timestamp": "2023-01-03T00:00:00Z"
+    },
+    {
+      "id": "price-doge-20230103",
+      "asset": "DOGE",
+      "price": 0.1,
+      "timestamp": "2023-01-03T00:00:00Z"
+    },
+    {
+      "id": "price-appl-20230103",
+      "asset": "AAPL",
+      "price": 295,
+      "timestamp": "2023-01-03T00:00:00Z"
+    },
+    {
+      "id": "price-tsla-20230103",
+      "asset": "TSLA",
+      "price": 185,
+      "timestamp": "2023-01-03T00:00:00Z"
+    },
+    {
+      "id": "price-gbp-20230103",
+      "asset": "GBP",
+      "price": 1.01,
+      "timestamp": "2023-01-03T00:00:00Z"
+    },
+    {
+      "id": "price-eur-20230103",
+      "asset": "EUR",
+      "price": 1.05,
+      "timestamp": "2023-01-03T00:00:00Z"
+    }
+  ],
+
+  "portofolios": {
+    "id": "Portofolio-abc-123",
+    "asOf": "2023-01-01T00:00:00Z",
+    "positions": [
+      {
+        "id": 10,
+        "asset": "BTC",
+        "quantity": 2,
+        "asOf": "2023-01-01T00:00:00Z",
+        "price": 20500
+      },
+      {
+        "id": 11,
+        "asset": "AAPL",
+        "quantity": 5,
+        "asOf": "2023-01-01T00:00:00Z",
+        "price": 290
+      },
+      {
+        "id": 12,
+        "asset": "ETH",
+        "quantity": 10,
+        "asOf": "2023-01-01T00:00:00Z",
+        "price": 1400
+      }
+    ]
+  }
+}
